@@ -1,0 +1,221 @@
+npi,last_name,first_name,city,state,specialty,brand_name,generic_name,total_claims,total_cost,total_patients
+1003002049,Srinivasan,Lakshmi,Fremont,CA,Endocrinology,Ozempic,semaglutide,70,133545.13,18.0
+1003002049,Srinivasan,Lakshmi,Fremont,CA,Endocrinology,Trulicity,dulaglutide,15,32458.42,0.0
+1003004201,Philbrick,Natalie,Corpus Christi,TX,Internal Medicine,Ozempic,semaglutide,66,70837.96,14.0
+1003004201,Philbrick,Natalie,Corpus Christi,TX,Internal Medicine,Rybelsus,semaglutide,16,16173.58,0.0
+1003004201,Philbrick,Natalie,Corpus Christi,TX,Internal Medicine,Trulicity,dulaglutide,44,59138.23,0.0
+1003006610,Rule,Cindi,Ireton,IA,Nurse Practitioner,Ozempic,semaglutide,12,11457.6,0.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Mounjaro,tirzepatide,22,22802.72,0.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Ozempic,semaglutide,325,499638.08,87.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Rybelsus,semaglutide,53,76377.72,20.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Trulicity,dulaglutide,82,111961.87,20.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Victoza 3-Pak,liraglutide,19,25537.96,0.0
+1003007170,Danciu,Sorin,Chicago,IL,Cardiology,Ozempic,semaglutide,20,39178.09,0.0
+1003007592,Miller,Carolyn,Johnsonburg,PA,Physician Assistant,Ozempic,semaglutide,37,35954.92,0.0
+1003008095,House,Robin,London,KY,Nurse Practitioner,Ozempic,semaglutide,64,76529.37,14.0
+1003008095,House,Robin,London,KY,Nurse Practitioner,Trulicity,dulaglutide,30,36637.61,0.0
+1003008095,House,Robin,London,KY,Nurse Practitioner,Victoza 3-Pak,liraglutide,12,22694.96,0.0
+1003008715,Hinson,Janelle,Columbia,SC,Physician Assistant,Ozempic,semaglutide,70,91776.73,24.0
+1003008715,Hinson,Janelle,Columbia,SC,Physician Assistant,Trulicity,dulaglutide,122,167984.39,26.0
+1003008715,Hinson,Janelle,Columbia,SC,Physician Assistant,Victoza 3-Pak,liraglutide,34,59784.62,0.0
+1003008855,Lee,Alisia,Exeter,CA,Physician Assistant,Ozempic,semaglutide,12,13456.49,0.0
+1003008855,Lee,Alisia,Exeter,CA,Physician Assistant,Rybelsus,semaglutide,18,23338.07,0.0
+1003009119,Mohler,Troy,Purcellville,VA,Family Practice,Trulicity,dulaglutide,45,55719.96,0.0
+1003010307,Stone,Jennifer,Roanoke Rapids,NC,Family Practice,Trulicity,dulaglutide,13,14340.3,0.0
+1003010463,Burgart,Jennifer,Asheboro,NC,Family Practice,Ozempic,semaglutide,41,38215.81,0.0
+1003010463,Burgart,Jennifer,Asheboro,NC,Family Practice,Trulicity,dulaglutide,23,28857.07,0.0
+1003010786,Savoie,Jeri,Amsterdam,NY,Nurse Practitioner,Ozempic,semaglutide,11,25781.71,0.0
+1003010786,Savoie,Jeri,Amsterdam,NY,Nurse Practitioner,Trulicity,dulaglutide,37,44043.67,0.0
+1003010943,Koshy,Anoopa,Chicago,IL,Endocrinology,Trulicity,dulaglutide,55,101707.81,17.0
+1003010943,Koshy,Anoopa,Chicago,IL,Endocrinology,Victoza 3-Pak,liraglutide,12,25465.13,0.0
+1003011214,Bajaj,Bhavandeep,Baltimore,MD,Internal Medicine,Ozempic,semaglutide,21,27940.95,0.0
+1003011214,Bajaj,Bhavandeep,Baltimore,MD,Internal Medicine,Trulicity,dulaglutide,97,173227.25,18.0
+1003011610,Ray,Alaka,Boston,MA,Internal Medicine,Ozempic,semaglutide,13,18608.23,0.0
+1003011610,Ray,Alaka,Boston,MA,Internal Medicine,Trulicity,dulaglutide,11,12335.36,0.0
+1003011800,Blomeier,Herman,Skokie,IL,Endocrinology,Ozempic,semaglutide,89,130592.49,20.0
+1003011800,Blomeier,Herman,Skokie,IL,Endocrinology,Rybelsus,semaglutide,59,78247.88,0.0
+1003011800,Blomeier,Herman,Skokie,IL,Endocrinology,Trulicity,dulaglutide,126,241203.82,31.0
+1003011800,Blomeier,Herman,Skokie,IL,Endocrinology,Victoza 3-Pak,liraglutide,25,66768.49,0.0
+1003012428,Patel,Viral,Crittenden,KY,Family Practice,Ozempic,semaglutide,24,23076.9,0.0
+1003012428,Patel,Viral,Crittenden,KY,Family Practice,Trulicity,dulaglutide,19,27568.19,0.0
+1003012931,Lopez,Niceto,Walnut Creek,CA,Internal Medicine,Victoza 3-Pak,liraglutide,21,12292.51,0.0
+1003013004,Dajani,Asma,Westerville,OH,Family Practice,Ozempic,semaglutide,14,18536.64,0.0
+1003013269,Chelson,Jillian,Santa Cruz,CA,Physician Assistant,Ozempic,semaglutide,25,24058.37,0.0
+1003013582,Haggerty,Treah,Morgantown,WV,Family Practice,Ozempic,semaglutide,30,29768.3,0.0
+1003013582,Haggerty,Treah,Morgantown,WV,Family Practice,Trulicity,dulaglutide,21,19219.41,0.0
+1003002049,Srinivasan,Lakshmi,Fremont,CA,Endocrinology,Ozempic,semaglutide,70,133545.13,18.0
+1003002049,Srinivasan,Lakshmi,Fremont,CA,Endocrinology,Trulicity,dulaglutide,15,32458.42,0.0
+1003004201,Philbrick,Natalie,Corpus Christi,TX,Internal Medicine,Ozempic,semaglutide,66,70837.96,14.0
+1003004201,Philbrick,Natalie,Corpus Christi,TX,Internal Medicine,Rybelsus,semaglutide,16,16173.58,0.0
+1003004201,Philbrick,Natalie,Corpus Christi,TX,Internal Medicine,Trulicity,dulaglutide,44,59138.23,0.0
+1003006610,Rule,Cindi,Ireton,IA,Nurse Practitioner,Ozempic,semaglutide,12,11457.6,0.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Mounjaro,tirzepatide,22,22802.72,0.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Ozempic,semaglutide,325,499638.08,87.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Rybelsus,semaglutide,53,76377.72,20.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Trulicity,dulaglutide,82,111961.87,20.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Victoza 3-Pak,liraglutide,19,25537.96,0.0
+1003007170,Danciu,Sorin,Chicago,IL,Cardiology,Ozempic,semaglutide,20,39178.09,0.0
+1003007592,Miller,Carolyn,Johnsonburg,PA,Physician Assistant,Ozempic,semaglutide,37,35954.92,0.0
+1003008095,House,Robin,London,KY,Nurse Practitioner,Ozempic,semaglutide,64,76529.37,14.0
+1003008095,House,Robin,London,KY,Nurse Practitioner,Trulicity,dulaglutide,30,36637.61,0.0
+1003008095,House,Robin,London,KY,Nurse Practitioner,Victoza 3-Pak,liraglutide,12,22694.96,0.0
+1003008715,Hinson,Janelle,Columbia,SC,Physician Assistant,Ozempic,semaglutide,70,91776.73,24.0
+1003008715,Hinson,Janelle,Columbia,SC,Physician Assistant,Trulicity,dulaglutide,122,167984.39,26.0
+1003008715,Hinson,Janelle,Columbia,SC,Physician Assistant,Victoza 3-Pak,liraglutide,34,59784.62,0.0
+1003008855,Lee,Alisia,Exeter,CA,Physician Assistant,Ozempic,semaglutide,12,13456.49,0.0
+1003008855,Lee,Alisia,Exeter,CA,Physician Assistant,Rybelsus,semaglutide,18,23338.07,0.0
+1003009119,Mohler,Troy,Purcellville,VA,Family Practice,Trulicity,dulaglutide,45,55719.96,0.0
+1003010307,Stone,Jennifer,Roanoke Rapids,NC,Family Practice,Trulicity,dulaglutide,13,14340.3,0.0
+1003010463,Burgart,Jennifer,Asheboro,NC,Family Practice,Ozempic,semaglutide,41,38215.81,0.0
+1003010463,Burgart,Jennifer,Asheboro,NC,Family Practice,Trulicity,dulaglutide,23,28857.07,0.0
+1003010786,Savoie,Jeri,Amsterdam,NY,Nurse Practitioner,Ozempic,semaglutide,11,25781.71,0.0
+1003010786,Savoie,Jeri,Amsterdam,NY,Nurse Practitioner,Trulicity,dulaglutide,37,44043.67,0.0
+1003010943,Koshy,Anoopa,Chicago,IL,Endocrinology,Trulicity,dulaglutide,55,101707.81,17.0
+1003010943,Koshy,Anoopa,Chicago,IL,Endocrinology,Victoza 3-Pak,liraglutide,12,25465.13,0.0
+1003011214,Bajaj,Bhavandeep,Baltimore,MD,Internal Medicine,Ozempic,semaglutide,21,27940.95,0.0
+1003011214,Bajaj,Bhavandeep,Baltimore,MD,Internal Medicine,Trulicity,dulaglutide,97,173227.25,18.0
+1003011610,Ray,Alaka,Boston,MA,Internal Medicine,Ozempic,semaglutide,13,18608.23,0.0
+1003011610,Ray,Alaka,Boston,MA,Internal Medicine,Trulicity,dulaglutide,11,12335.36,0.0
+1003011800,Blomeier,Herman,Skokie,IL,Endocrinology,Ozempic,semaglutide,89,130592.49,20.0
+1003011800,Blomeier,Herman,Skokie,IL,Endocrinology,Rybelsus,semaglutide,59,78247.88,0.0
+1003011800,Blomeier,Herman,Skokie,IL,Endocrinology,Trulicity,dulaglutide,126,241203.82,31.0
+1003011800,Blomeier,Herman,Skokie,IL,Endocrinology,Victoza 3-Pak,liraglutide,25,66768.49,0.0
+1003012428,Patel,Viral,Crittenden,KY,Family Practice,Ozempic,semaglutide,24,23076.9,0.0
+1003012428,Patel,Viral,Crittenden,KY,Family Practice,Trulicity,dulaglutide,19,27568.19,0.0
+1003012931,Lopez,Niceto,Walnut Creek,CA,Internal Medicine,Victoza 3-Pak,liraglutide,21,12292.51,0.0
+1003013004,Dajani,Asma,Westerville,OH,Family Practice,Ozempic,semaglutide,14,18536.64,0.0
+1003013269,Chelson,Jillian,Santa Cruz,CA,Physician Assistant,Ozempic,semaglutide,25,24058.37,0.0
+1003013582,Haggerty,Treah,Morgantown,WV,Family Practice,Ozempic,semaglutide,30,29768.3,0.0
+1003013582,Haggerty,Treah,Morgantown,WV,Family Practice,Trulicity,dulaglutide,21,19219.41,0.0
+1003002049,Srinivasan,Lakshmi,Fremont,CA,Endocrinology,Ozempic,semaglutide,70,133545.13,18.0
+1003002049,Srinivasan,Lakshmi,Fremont,CA,Endocrinology,Trulicity,dulaglutide,15,32458.42,0.0
+1003004201,Philbrick,Natalie,Corpus Christi,TX,Internal Medicine,Ozempic,semaglutide,66,70837.96,14.0
+1003004201,Philbrick,Natalie,Corpus Christi,TX,Internal Medicine,Rybelsus,semaglutide,16,16173.58,0.0
+1003004201,Philbrick,Natalie,Corpus Christi,TX,Internal Medicine,Trulicity,dulaglutide,44,59138.23,0.0
+1003006610,Rule,Cindi,Ireton,IA,Nurse Practitioner,Ozempic,semaglutide,12,11457.6,0.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Mounjaro,tirzepatide,22,22802.72,0.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Ozempic,semaglutide,325,499638.08,87.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Rybelsus,semaglutide,53,76377.72,20.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Trulicity,dulaglutide,82,111961.87,20.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Victoza 3-Pak,liraglutide,19,25537.96,0.0
+1003007170,Danciu,Sorin,Chicago,IL,Cardiology,Ozempic,semaglutide,20,39178.09,0.0
+1003007592,Miller,Carolyn,Johnsonburg,PA,Physician Assistant,Ozempic,semaglutide,37,35954.92,0.0
+1003008095,House,Robin,London,KY,Nurse Practitioner,Ozempic,semaglutide,64,76529.37,14.0
+1003008095,House,Robin,London,KY,Nurse Practitioner,Trulicity,dulaglutide,30,36637.61,0.0
+1003008095,House,Robin,London,KY,Nurse Practitioner,Victoza 3-Pak,liraglutide,12,22694.96,0.0
+1003008715,Hinson,Janelle,Columbia,SC,Physician Assistant,Ozempic,semaglutide,70,91776.73,24.0
+1003008715,Hinson,Janelle,Columbia,SC,Physician Assistant,Trulicity,dulaglutide,122,167984.39,26.0
+1003008715,Hinson,Janelle,Columbia,SC,Physician Assistant,Victoza 3-Pak,liraglutide,34,59784.62,0.0
+1003008855,Lee,Alisia,Exeter,CA,Physician Assistant,Ozempic,semaglutide,12,13456.49,0.0
+1003008855,Lee,Alisia,Exeter,CA,Physician Assistant,Rybelsus,semaglutide,18,23338.07,0.0
+1003009119,Mohler,Troy,Purcellville,VA,Family Practice,Trulicity,dulaglutide,45,55719.96,0.0
+1003010307,Stone,Jennifer,Roanoke Rapids,NC,Family Practice,Trulicity,dulaglutide,13,14340.3,0.0
+1003010463,Burgart,Jennifer,Asheboro,NC,Family Practice,Ozempic,semaglutide,41,38215.81,0.0
+1003010463,Burgart,Jennifer,Asheboro,NC,Family Practice,Trulicity,dulaglutide,23,28857.07,0.0
+1003010786,Savoie,Jeri,Amsterdam,NY,Nurse Practitioner,Ozempic,semaglutide,11,25781.71,0.0
+1003010786,Savoie,Jeri,Amsterdam,NY,Nurse Practitioner,Trulicity,dulaglutide,37,44043.67,0.0
+1003010943,Koshy,Anoopa,Chicago,IL,Endocrinology,Trulicity,dulaglutide,55,101707.81,17.0
+1003010943,Koshy,Anoopa,Chicago,IL,Endocrinology,Victoza 3-Pak,liraglutide,12,25465.13,0.0
+1003011214,Bajaj,Bhavandeep,Baltimore,MD,Internal Medicine,Ozempic,semaglutide,21,27940.95,0.0
+1003011214,Bajaj,Bhavandeep,Baltimore,MD,Internal Medicine,Trulicity,dulaglutide,97,173227.25,18.0
+1003011610,Ray,Alaka,Boston,MA,Internal Medicine,Ozempic,semaglutide,13,18608.23,0.0
+1003011610,Ray,Alaka,Boston,MA,Internal Medicine,Trulicity,dulaglutide,11,12335.36,0.0
+1003011800,Blomeier,Herman,Skokie,IL,Endocrinology,Ozempic,semaglutide,89,130592.49,20.0
+1003011800,Blomeier,Herman,Skokie,IL,Endocrinology,Rybelsus,semaglutide,59,78247.88,0.0
+1003011800,Blomeier,Herman,Skokie,IL,Endocrinology,Trulicity,dulaglutide,126,241203.82,31.0
+1003011800,Blomeier,Herman,Skokie,IL,Endocrinology,Victoza 3-Pak,liraglutide,25,66768.49,0.0
+1003012428,Patel,Viral,Crittenden,KY,Family Practice,Ozempic,semaglutide,24,23076.9,0.0
+1003012428,Patel,Viral,Crittenden,KY,Family Practice,Trulicity,dulaglutide,19,27568.19,0.0
+1003012931,Lopez,Niceto,Walnut Creek,CA,Internal Medicine,Victoza 3-Pak,liraglutide,21,12292.51,0.0
+1003013004,Dajani,Asma,Westerville,OH,Family Practice,Ozempic,semaglutide,14,18536.64,0.0
+1003013269,Chelson,Jillian,Santa Cruz,CA,Physician Assistant,Ozempic,semaglutide,25,24058.37,0.0
+1003013582,Haggerty,Treah,Morgantown,WV,Family Practice,Ozempic,semaglutide,30,29768.3,0.0
+1003013582,Haggerty,Treah,Morgantown,WV,Family Practice,Trulicity,dulaglutide,21,19219.41,0.0
+1003002049,Srinivasan,Lakshmi,Fremont,CA,Endocrinology,Ozempic,semaglutide,70,133545.13,18.0
+1003002049,Srinivasan,Lakshmi,Fremont,CA,Endocrinology,Trulicity,dulaglutide,15,32458.42,0.0
+1003004201,Philbrick,Natalie,Corpus Christi,TX,Internal Medicine,Ozempic,semaglutide,66,70837.96,14.0
+1003004201,Philbrick,Natalie,Corpus Christi,TX,Internal Medicine,Rybelsus,semaglutide,16,16173.58,0.0
+1003004201,Philbrick,Natalie,Corpus Christi,TX,Internal Medicine,Trulicity,dulaglutide,44,59138.23,0.0
+1003006610,Rule,Cindi,Ireton,IA,Nurse Practitioner,Ozempic,semaglutide,12,11457.6,0.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Mounjaro,tirzepatide,22,22802.72,0.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Ozempic,semaglutide,325,499638.08,87.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Rybelsus,semaglutide,53,76377.72,20.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Trulicity,dulaglutide,82,111961.87,20.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Victoza 3-Pak,liraglutide,19,25537.96,0.0
+1003007170,Danciu,Sorin,Chicago,IL,Cardiology,Ozempic,semaglutide,20,39178.09,0.0
+1003007592,Miller,Carolyn,Johnsonburg,PA,Physician Assistant,Ozempic,semaglutide,37,35954.92,0.0
+1003008095,House,Robin,London,KY,Nurse Practitioner,Ozempic,semaglutide,64,76529.37,14.0
+1003008095,House,Robin,London,KY,Nurse Practitioner,Trulicity,dulaglutide,30,36637.61,0.0
+1003008095,House,Robin,London,KY,Nurse Practitioner,Victoza 3-Pak,liraglutide,12,22694.96,0.0
+1003008715,Hinson,Janelle,Columbia,SC,Physician Assistant,Ozempic,semaglutide,70,91776.73,24.0
+1003008715,Hinson,Janelle,Columbia,SC,Physician Assistant,Trulicity,dulaglutide,122,167984.39,26.0
+1003008715,Hinson,Janelle,Columbia,SC,Physician Assistant,Victoza 3-Pak,liraglutide,34,59784.62,0.0
+1003008855,Lee,Alisia,Exeter,CA,Physician Assistant,Ozempic,semaglutide,12,13456.49,0.0
+1003008855,Lee,Alisia,Exeter,CA,Physician Assistant,Rybelsus,semaglutide,18,23338.07,0.0
+1003009119,Mohler,Troy,Purcellville,VA,Family Practice,Trulicity,dulaglutide,45,55719.96,0.0
+1003010307,Stone,Jennifer,Roanoke Rapids,NC,Family Practice,Trulicity,dulaglutide,13,14340.3,0.0
+1003010463,Burgart,Jennifer,Asheboro,NC,Family Practice,Ozempic,semaglutide,41,38215.81,0.0
+1003010463,Burgart,Jennifer,Asheboro,NC,Family Practice,Trulicity,dulaglutide,23,28857.07,0.0
+1003010786,Savoie,Jeri,Amsterdam,NY,Nurse Practitioner,Ozempic,semaglutide,11,25781.71,0.0
+1003010786,Savoie,Jeri,Amsterdam,NY,Nurse Practitioner,Trulicity,dulaglutide,37,44043.67,0.0
+1003010943,Koshy,Anoopa,Chicago,IL,Endocrinology,Trulicity,dulaglutide,55,101707.81,17.0
+1003010943,Koshy,Anoopa,Chicago,IL,Endocrinology,Victoza 3-Pak,liraglutide,12,25465.13,0.0
+1003011214,Bajaj,Bhavandeep,Baltimore,MD,Internal Medicine,Ozempic,semaglutide,21,27940.95,0.0
+1003011214,Bajaj,Bhavandeep,Baltimore,MD,Internal Medicine,Trulicity,dulaglutide,97,173227.25,18.0
+1003011610,Ray,Alaka,Boston,MA,Internal Medicine,Ozempic,semaglutide,13,18608.23,0.0
+1003011610,Ray,Alaka,Boston,MA,Internal Medicine,Trulicity,dulaglutide,11,12335.36,0.0
+1003011800,Blomeier,Herman,Skokie,IL,Endocrinology,Ozempic,semaglutide,89,130592.49,20.0
+1003011800,Blomeier,Herman,Skokie,IL,Endocrinology,Rybelsus,semaglutide,59,78247.88,0.0
+1003011800,Blomeier,Herman,Skokie,IL,Endocrinology,Trulicity,dulaglutide,126,241203.82,31.0
+1003011800,Blomeier,Herman,Skokie,IL,Endocrinology,Victoza 3-Pak,liraglutide,25,66768.49,0.0
+1003012428,Patel,Viral,Crittenden,KY,Family Practice,Ozempic,semaglutide,24,23076.9,0.0
+1003012428,Patel,Viral,Crittenden,KY,Family Practice,Trulicity,dulaglutide,19,27568.19,0.0
+1003012931,Lopez,Niceto,Walnut Creek,CA,Internal Medicine,Victoza 3-Pak,liraglutide,21,12292.51,0.0
+1003013004,Dajani,Asma,Westerville,OH,Family Practice,Ozempic,semaglutide,14,18536.64,0.0
+1003013269,Chelson,Jillian,Santa Cruz,CA,Physician Assistant,Ozempic,semaglutide,25,24058.37,0.0
+1003013582,Haggerty,Treah,Morgantown,WV,Family Practice,Ozempic,semaglutide,30,29768.3,0.0
+1003013582,Haggerty,Treah,Morgantown,WV,Family Practice,Trulicity,dulaglutide,21,19219.41,0.0
+1003002049,Srinivasan,Lakshmi,Fremont,CA,Endocrinology,Ozempic,semaglutide,70,133545.13,18.0
+1003002049,Srinivasan,Lakshmi,Fremont,CA,Endocrinology,Trulicity,dulaglutide,15,32458.42,0.0
+1003004201,Philbrick,Natalie,Corpus Christi,TX,Internal Medicine,Ozempic,semaglutide,66,70837.96,14.0
+1003004201,Philbrick,Natalie,Corpus Christi,TX,Internal Medicine,Rybelsus,semaglutide,16,16173.58,0.0
+1003004201,Philbrick,Natalie,Corpus Christi,TX,Internal Medicine,Trulicity,dulaglutide,44,59138.23,0.0
+1003006610,Rule,Cindi,Ireton,IA,Nurse Practitioner,Ozempic,semaglutide,12,11457.6,0.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Mounjaro,tirzepatide,22,22802.72,0.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Ozempic,semaglutide,325,499638.08,87.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Rybelsus,semaglutide,53,76377.72,20.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Trulicity,dulaglutide,82,111961.87,20.0
+1003007048,Fereidouni,Sam,Scottsdale,AZ,Family Practice,Victoza 3-Pak,liraglutide,19,25537.96,0.0
+1003007170,Danciu,Sorin,Chicago,IL,Cardiology,Ozempic,semaglutide,20,39178.09,0.0
+1003007592,Miller,Carolyn,Johnsonburg,PA,Physician Assistant,Ozempic,semaglutide,37,35954.92,0.0
+1003008095,House,Robin,London,KY,Nurse Practitioner,Ozempic,semaglutide,64,76529.37,14.0
+1003008095,House,Robin,London,KY,Nurse Practitioner,Trulicity,dulaglutide,30,36637.61,0.0
+1003008095,House,Robin,London,KY,Nurse Practitioner,Victoza 3-Pak,liraglutide,12,22694.96,0.0
+1003008715,Hinson,Janelle,Columbia,SC,Physician Assistant,Ozempic,semaglutide,70,91776.73,24.0
+1003008715,Hinson,Janelle,Columbia,SC,Physician Assistant,Trulicity,dulaglutide,122,167984.39,26.0
+1003008715,Hinson,Janelle,Columbia,SC,Physician Assistant,Victoza 3-Pak,liraglutide,34,59784.62,0.0
+1003008855,Lee,Alisia,Exeter,CA,Physician Assistant,Ozempic,semaglutide,12,13456.49,0.0
+1003008855,Lee,Alisia,Exeter,CA,Physician Assistant,Rybelsus,semaglutide,18,23338.07,0.0
+1003009119,Mohler,Troy,Purcellville,VA,Family Practice,Trulicity,dulaglutide,45,55719.96,0.0
+1003010307,Stone,Jennifer,Roanoke Rapids,NC,Family Practice,Trulicity,dulaglutide,13,14340.3,0.0
+1003010463,Burgart,Jennifer,Asheboro,NC,Family Practice,Ozempic,semaglutide,41,38215.81,0.0
+1003010463,Burgart,Jennifer,Asheboro,NC,Family Practice,Trulicity,dulaglutide,23,28857.07,0.0
+1003010786,Savoie,Jeri,Amsterdam,NY,Nurse Practitioner,Ozempic,semaglutide,11,25781.71,0.0
+1003010786,Savoie,Jeri,Amsterdam,NY,Nurse Practitioner,Trulicity,dulaglutide,37,44043.67,0.0
+1003010943,Koshy,Anoopa,Chicago,IL,Endocrinology,Trulicity,dulaglutide,55,101707.81,17.0
+1003010943,Koshy,Anoopa,Chicago,IL,Endocrinology,Victoza 3-Pak,liraglutide,12,25465.13,0.0
+1003011214,Bajaj,Bhavandeep,Baltimore,MD,Internal Medicine,Ozempic,semaglutide,21,27940.95,0.0
+1003011214,Bajaj,Bhavandeep,Baltimore,MD,Internal Medicine,Trulicity,dulaglutide,97,173227.25,18.0
+1003011610,Ray,Alaka,Boston,MA,Internal Medicine,Ozempic,semaglutide,13,18608.23,0.0
+1003011610,Ray,Alaka,Boston,MA,Internal Medicine,Trulicity,dulaglutide,11,12335.36,0.0
+1003011800,Blomeier,Herman,Skokie,IL,Endocrinology,Ozempic,semaglutide,89,130592.49,20.0
+1003011800,Blomeier,Herman,Skokie,IL,Endocrinology,Rybelsus,semaglutide,59,78247.88,0.0
+1003011800,Blomeier,Herman,Skokie,IL,Endocrinology,Trulicity,dulaglutide,126,241203.82,31.0
+1003011800,Blomeier,Herman,Skokie,IL,Endocrinology,Victoza 3-Pak,liraglutide,25,66768.49,0.0
+1003012428,Patel,Viral,Crittenden,KY,Family Practice,Ozempic,semaglutide,24,23076.9,0.0
+1003012428,Patel,Viral,Crittenden,KY,Family Practice,Trulicity,dulaglutide,19,27568.19,0.0
+1003012931,Lopez,Niceto,Walnut Creek,CA,Internal Medicine,Victoza 3-Pak,liraglutide,21,12292.51,0.0
+1003013004,Dajani,Asma,Westerville,OH,Family Practice,Ozempic,semaglutide,14,18536.64,0.0
+1003013269,Chelson,Jillian,Santa Cruz,CA,Physician Assistant,Ozempic,semaglutide,25,24058.37,0.0
+1003013582,Haggerty,Treah,Morgantown,WV,Family Practice,Ozempic,semaglutide,30,29768.3,0.0
+1003013582,Haggerty,Treah,Morgantown,WV,Family Practice,Trulicity,dulaglutide,21,19219.41,0.0
