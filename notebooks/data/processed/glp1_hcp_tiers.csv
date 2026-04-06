@@ -1,0 +1,23 @@
+first_name,last_name,city,state,specialty,total_claims,target_tier
+Sam,Fereidouni,Scottsdale,AZ,Family Practice,2505,Tier 1 - High Value
+Herman,Blomeier,Skokie,IL,Endocrinology,1495,Tier 1 - High Value
+Janelle,Hinson,Columbia,SC,Physician Assistant,1130,Tier 1 - High Value
+Natalie,Philbrick,Corpus Christi,TX,Internal Medicine,630,Tier 1 - High Value
+Bhavandeep,Bajaj,Baltimore,MD,Internal Medicine,590,Tier 1 - High Value
+Robin,House,London,KY,Nurse Practitioner,530,Tier 1 - High Value
+Lakshmi,Srinivasan,Fremont,CA,Endocrinology,425,Tier 2 - Medium Value
+Anoopa,Koshy,Chicago,IL,Endocrinology,335,Tier 2 - Medium Value
+Jennifer,Burgart,Asheboro,NC,Family Practice,320,Tier 2 - Medium Value
+Treah,Haggerty,Morgantown,WV,Family Practice,255,Tier 2 - Medium Value
+Jeri,Savoie,Amsterdam,NY,Nurse Practitioner,240,Tier 2 - Medium Value
+Troy,Mohler,Purcellville,VA,Family Practice,225,Tier 2 - Medium Value
+Viral,Patel,Crittenden,KY,Family Practice,215,Tier 2 - Medium Value
+Carolyn,Miller,Johnsonburg,PA,Physician Assistant,185,Tier 2 - Medium Value
+Alisia,Lee,Exeter,CA,Physician Assistant,150,Tier 2 - Medium Value
+Jillian,Chelson,Santa Cruz,CA,Physician Assistant,125,Tier 2 - Medium Value
+Alaka,Ray,Boston,MA,Internal Medicine,120,Tier 2 - Medium Value
+Niceto,Lopez,Walnut Creek,CA,Internal Medicine,105,Tier 2 - Medium Value
+Sorin,Danciu,Chicago,IL,Cardiology,100,Tier 2 - Medium Value
+Asma,Dajani,Westerville,OH,Family Practice,70,Tier 3 - Low Value
+Jennifer,Stone,Roanoke Rapids,NC,Family Practice,65,Tier 3 - Low Value
+Cindi,Rule,Ireton,IA,Nurse Practitioner,60,Tier 3 - Low Value
