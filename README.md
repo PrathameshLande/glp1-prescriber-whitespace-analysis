@@ -17,6 +17,14 @@ white spaces.
 - **Semaglutide (Ozempic/Wegovy)** dominates with 55% of total prescriptions
 - **6 Tier 1 high-value prescribers** identified for priority sales targeting
 
+## Limitations
+- Data is capped at 5,000 records per drug via the CMS API — large states like 
+  CA, NY, and FL are likely underrepresented in geographic findings
+- The state-level volume analysis should be interpreted as directional, not absolute
+- The specialty finding (Family Practice > Endocrinology) is robust and holds 
+  regardless of sample size
+- A complete analysis would require the full CMS dataset download (~500MB)
+
 ## Tools Used
 - **Python** (pandas, requests, matplotlib, seaborn) — data pipeline and analysis
 - **SQL** (SQLite) — HCP segmentation and tiering logic
